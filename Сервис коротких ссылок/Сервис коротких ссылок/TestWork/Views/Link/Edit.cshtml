@@ -1,0 +1,21 @@
+﻿
+@model TestWork.Models.Link
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Редактировать</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Update", "Link", FormMethod.Post))
+        {
+            <input type="text" name="FullLink" value="@Model.FullLink" /> <br />
+            @Html.HiddenFor(model => Model.ShortLink)
+            @Html.HiddenFor(model => Model.Id)
+            <button type="submit">Сохранить</button>
+        }
+    </div>
+</body>
+</html>

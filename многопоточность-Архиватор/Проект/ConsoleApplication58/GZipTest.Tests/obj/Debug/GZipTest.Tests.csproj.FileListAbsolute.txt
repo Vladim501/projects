@@ -1,0 +1,7 @@
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\GZipTest.Tests\bin\Debug\GZipTest.Tests.dll
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\GZipTest.Tests\bin\Debug\GZipTest.Tests.pdb
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\GZipTest.Tests\obj\Debug\GZipTest.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\GZipTest.Tests\obj\Debug\GZipTest.Tests.dll
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\GZipTest.Tests\obj\Debug\GZipTest.Tests.pdb
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\GZipTest.Tests\bin\Debug\GZipTest.exe
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\GZipTest.Tests\bin\Debug\GZipTest.pdb

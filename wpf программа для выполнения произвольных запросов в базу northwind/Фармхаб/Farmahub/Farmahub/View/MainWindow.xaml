@@ -1,0 +1,37 @@
+﻿<Window x:Name="Proga" x:Class="Farmahub.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Farmahub"
+        mc:Ignorable="d"
+        Title="Программа для запросов к базе данных" Width="1110" WindowStartupLocation="CenterScreen" Height="879">
+    <Grid Margin="0,-85,2,0">
+        <Grid HorizontalAlignment="Left" Height="340" Margin="10,96,0,0" VerticalAlignment="Top" Width="1050">
+            <Label Content="Окно запроса" HorizontalAlignment="Left" Margin="410,61,0,0" VerticalAlignment="Top" Width="98"/>
+            <Button Command="{Binding CommandToRun}" Content="Выполнить запрос" HorizontalAlignment="Left" Height="29" Margin="349,293,0,0" VerticalAlignment="Top" Width="288"/>
+            <TextBox x:Name="Digital" PreviewTextInput="Digital_OnPreviewTextInput" HorizontalAlignment="Left" Height="29" Margin="244,295,0,0" TextWrapping="Wrap" Text="{Binding StringOut}" VerticalAlignment="Top" Width="80"/>
+            <Label Content="Количество выводимых строк" HorizontalAlignment="Left" Height="29" Margin="56,295,0,0" VerticalAlignment="Top" Width="166"/>
+            <TextBox HorizontalAlignment="Left" Height="179" Margin="149,89,0,0" TextWrapping="Wrap" AcceptsReturn="True" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto" Text="{Binding Request, Mode=TwoWay}" FontSize="15"  VerticalAlignment="Top" Width="683"/>
+            <Button Command="{Binding SaveDataToCSV}" Content="Сохранить в CSV файл " HorizontalAlignment="Left" Height="35" Margin="854,89,0,0" VerticalAlignment="Top" Width="156"/>
+            <Button Command="{Binding SaveDataToWord}" Content="Сохраняем данные в Word" HorizontalAlignment="Left" Height="32" Margin="854,140,0,0" VerticalAlignment="Top" Width="156"/>
+            <TextBox HorizontalAlignment="Left" Height="25" Margin="260,23,0,0" TextWrapping="Wrap" Text="{Binding Conn, Mode=TwoWay}" VerticalAlignment="Top" Width="572" RenderTransformOrigin="0.5,0.5">
+                <TextBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-0.004"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <Label Content="Строка подключения" HorizontalAlignment="Left" Height="32" Margin="126,23,0,0" VerticalAlignment="Top" Width="118"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="409" Margin="39,458,0,0" VerticalAlignment="Top" Width="1007">
+            <DataGrid ItemsSource="{Binding Data }" HorizontalAlignment="Left" Height="406" Margin="10,26,0,0" VerticalAlignment="Top" Width="987"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="83" Margin="59,872,0,0" VerticalAlignment="Top" Width="973">
+
+        </Grid>
+    </Grid>
+</Window>

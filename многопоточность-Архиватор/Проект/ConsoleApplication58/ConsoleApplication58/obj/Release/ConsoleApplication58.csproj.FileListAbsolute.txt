@@ -1,0 +1,9 @@
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\bin\Release\ConsoleApplication58.exe
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\bin\Release\ConsoleApplication58.pdb
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\obj\Release\ConsoleApplication58.exe
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\obj\Release\ConsoleApplication58.pdb
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\bin\Release\ConsoleApplication58.exe.manifest
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\bin\Release\ConsoleApplication58.application
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\obj\Release\ConsoleApplication58.exe.manifest
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\obj\Release\ConsoleApplication58.application
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\obj\Release\ConsoleApplication58.csprojResolveAssemblyReference.cache

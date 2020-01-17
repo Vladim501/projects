@@ -1,0 +1,5 @@
+c:\users\владимир\documents\visual studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\bin\Debug\ConsoleApplication58.exe
+c:\users\владимир\documents\visual studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\bin\Debug\ConsoleApplication58.pdb
+c:\users\владимир\documents\visual studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\obj\Debug\ConsoleApplication58.exe
+c:\users\владимир\documents\visual studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\obj\Debug\ConsoleApplication58.pdb
+C:\Users\Владимир\Documents\Visual Studio 2013\Projects\ConsoleApplication58\ConsoleApplication58\obj\Debug\ConsoleApplication58.csprojResolveAssemblyReference.cache

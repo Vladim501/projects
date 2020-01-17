@@ -1,0 +1,10 @@
+c:\users\владимир\documents\visual studio 2017\Projects\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\WebApplication11.csproj.CoreCompileInputs.cache
+c:\users\владимир\documents\visual studio 2017\Projects\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\WebApplication11.AssemblyInfoInputs.cache
+c:\users\владимир\documents\visual studio 2017\Projects\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\WebApplication11.AssemblyInfo.cs
+C:\Users\Владимир\Documents\Visual Studio 2017\Projects\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\RemoteKeyValueStorage.deps.json
+C:\Users\Владимир\Documents\Visual Studio 2017\Projects\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\RemoteKeyValueStorage.runtimeconfig.json
+C:\Users\Владимир\Documents\Visual Studio 2017\Projects\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\RemoteKeyValueStorage.runtimeconfig.dev.json
+C:\Users\Владимир\Documents\Visual Studio 2017\Projects\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\RemoteKeyValueStorage.dll
+C:\Users\Владимир\Documents\Visual Studio 2017\Projects\WebApplication11\WebApplication11\bin\Debug\netcoreapp2.0\RemoteKeyValueStorage.pdb
+C:\Users\Владимир\Documents\Visual Studio 2017\Projects\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\RemoteKeyValueStorage.dll
+C:\Users\Владимир\Documents\Visual Studio 2017\Projects\WebApplication11\WebApplication11\obj\Debug\netcoreapp2.0\RemoteKeyValueStorage.pdb

@@ -1,0 +1,46 @@
+﻿@model List<TestWork.Models.Link>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using (Html.BeginForm("Create", "Link", FormMethod.Post))
+    {
+        <input type="text" name="FullLink" placeholder="Full link" /> <br />
+        <button type="submit">Получить короткую ссылку</button>
+
+    }
+        <table>
+            @foreach (var item in Model)
+                {
+                    
+            <tr>
+                <td><strong>Длинная ссылка: </strong></td>
+                <td>@Html.DisplayFor(model => item.FullLink)</td>
+                <td><strong>Короткая ссылка: </strong></td>
+                <td>
+                    <a href="/@item.ShortLink" target="_blank">@Html.DisplayFor(model => item.ShortLink)</a>
+                </td>
+                <td>
+                    <strong>Количество кликов:</strong>
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Clicks)
+                </td>
+                <td>
+                    <strong>Количество уникальных кликов:</strong>
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.UniqueClicks)
+                </td>
+                <td>| @Html.ActionLink("Удалить", "Delete", "Link", item)</td>
+                <td>| @Html.ActionLink("Редактировать", "Edit", "Link", item)</td>
+            </tr>
+                    
+                }
+        </table>
+    @Html.Raw(TempData["msg"])
+</body>
+</html>

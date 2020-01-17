@@ -1,0 +1,11 @@
+D:\Екатеринбург\Готовая версия\TestWork\bin\Debug\netcoreapp2.1\TestWork.deps.json
+D:\Екатеринбург\Готовая версия\TestWork\bin\Debug\netcoreapp2.1\TestWork.runtimeconfig.json
+D:\Екатеринбург\Готовая версия\TestWork\bin\Debug\netcoreapp2.1\TestWork.runtimeconfig.dev.json
+D:\Екатеринбург\Готовая версия\TestWork\bin\Debug\netcoreapp2.1\TestWork.dll
+D:\Екатеринбург\Готовая версия\TestWork\bin\Debug\netcoreapp2.1\TestWork.pdb
+D:\Екатеринбург\Готовая версия\TestWork\obj\Debug\netcoreapp2.1\TestWork.csproj.CoreCompileInputs.cache
+D:\Екатеринбург\Готовая версия\TestWork\obj\Debug\netcoreapp2.1\TestWork.AssemblyInfoInputs.cache
+D:\Екатеринбург\Готовая версия\TestWork\obj\Debug\netcoreapp2.1\TestWork.AssemblyInfo.cs
+D:\Екатеринбург\Готовая версия\TestWork\obj\Debug\netcoreapp2.1\TestWork.dll
+D:\Екатеринбург\Готовая версия\TestWork\obj\Debug\netcoreapp2.1\TestWork.pdb
+D:\Екатеринбург\Готовая версия\TestWork\obj\Debug\netcoreapp2.1\TestWork.csprojAssemblyReference.cache
